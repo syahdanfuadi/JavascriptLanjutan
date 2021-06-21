@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Syahdan Fuadi",
+        "nrp": "089129338",
+        "email": "syahdanfuadi@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Rudi Sucipto",
+        "nrp": "12345656672",
+        "email": "syahdanfuadi@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Shafwan Jamil",
+        "nrp": "323242141",
+        "email": "syahdanfuadi@gmail.com",
+        "jurusan": "Teknik Industri",
+        "idDosenWali": 3
+    },
+    {
+        "nama": "Fikri Muhammad",
+        "nrp": "3214143345",
+        "email": "syahdanfuadi@gmail.com",
+        "jurusan": "Arsitektur",
+        "idDosenWali": 4
+    }
+]
